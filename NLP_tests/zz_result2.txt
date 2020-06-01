@@ -1,0 +1,103 @@
+'tempt' not in training corpus; ignoring.
+'kevin's' not in training corpus; ignoring.
+'counterpunches' not in training corpus; ignoring.
+'littler' not in training corpus; ignoring.
+'venues' not in training corpus; ignoring.
+'tumbles' not in training corpus; ignoring.
+'nicklaus'' not in training corpus; ignoring.
+'jupiter' not in training corpus; ignoring.
+'nicholson' not in training corpus; ignoring.
+'films' not in training corpus; ignoring.
+positive sentiment; 98.398602% confidence
+'breathless' not in training corpus; ignoring.
+positive sentiment; 98.062027% confidence
+'protocols' not in training corpus; ignoring.
+'floaters' not in training corpus; ignoring.
+positive sentiment; 98.318428% confidence
+'assists' not in training corpus; ignoring.
+'separating' not in training corpus; ignoring.
+'ivo's' not in training corpus; ignoring.
+'ivo's' not in training corpus; ignoring.
+positive sentiment; 98.029214% confidence
+'careerhigh' not in training corpus; ignoring.
+'hughes' not in training corpus; ignoring.
+'13yearold' not in training corpus; ignoring.
+'baggage' not in training corpus; ignoring.
+'warmdowns' not in training corpus; ignoring.
+'groundsmen' not in training corpus; ignoring.
+'geeing' not in training corpus; ignoring.
+'treater' not in training corpus; ignoring.
+positive sentiment; 98.659825% confidence
+'enthused' not in training corpus; ignoring.
+positive sentiment; 98.487353% confidence
+'barefoot' not in training corpus; ignoring.
+'sixweek' not in training corpus; ignoring.
+'guideline' not in training corpus; ignoring.
+'discomforts' not in training corpus; ignoring.
+'singular' not in training corpus; ignoring.
+'morton's' not in training corpus; ignoring.
+'neuroma' not in training corpus; ignoring.
+'orthotic' not in training corpus; ignoring.
+positive sentiment; 98.196179% confidence
+'theprocess' not in training corpus; ignoring.
+'logistics' not in training corpus; ignoring.
+positive sentiment; 98.414904% confidence
+positive sentiment; 98.493457% confidence
+'justifies' not in training corpus; ignoring.
+positive sentiment; 98.740703% confidence
+'stephen' not in training corpus; ignoring.
+'hampton' not in training corpus; ignoring.
+'cobwebs' not in training corpus; ignoring.
+'clippers' not in training corpus; ignoring.
+'afl' not in training corpus; ignoring.
+positive sentiment; 98.687047% confidence
+'discriminate' not in training corpus; ignoring.
+'disappointments' not in training corpus; ignoring.
+'fascinated' not in training corpus; ignoring.
+positive sentiment; 98.367602% confidence
+'outserved' not in training corpus; ignoring.
+positive sentiment; 98.191166% confidence
+'spartak' not in training corpus; ignoring.
+positive sentiment; 98.502570% confidence
+'pablo' not in training corpus; ignoring.
+'mediawise' not in training corpus; ignoring.
+positive sentiment; 97.950017% confidence
+'polar' not in training corpus; ignoring.
+'opposites' not in training corpus; ignoring.
+'selfrewarding' not in training corpus; ignoring.
+'selftalk' not in training corpus; ignoring.
+'secondguessing' not in training corpus; ignoring.
+positive sentiment; 98.069543% confidence
+positive sentiment; 97.570473% confidence
+'solidified' not in training corpus; ignoring.
+'jarmere' not in training corpus; ignoring.
+'malivai' not in training corpus; ignoring.
+'readily' not in training corpus; ignoring.
+'independence' not in training corpus; ignoring.
+'minorities' not in training corpus; ignoring.
+'mmoh' not in training corpus; ignoring.
+'demographic' not in training corpus; ignoring.
+positive sentiment; 98.087466% confidence
+positive sentiment; 97.861391% confidence
+positive sentiment; 98.874611% confidence
+'solidified' not in training corpus; ignoring.
+'top25' not in training corpus; ignoring.
+'claims' not in training corpus; ignoring.
+positive sentiment; 98.389614% confidence
+'closeish' not in training corpus; ignoring.
+'kyrgioswawrinka' not in training corpus; ignoring.
+positive sentiment; 98.687893% confidence
+positive sentiment; 98.039746% confidence
+'boisterous' not in training corpus; ignoring.
+'heated' not in training corpus; ignoring.
+'nuns'' not in training corpus; ignoring.
+'heavylegged' not in training corpus; ignoring.
+positive sentiment; 98.252779% confidence
+'captaincy' not in training corpus; ignoring.
+positive sentiment; 98.453301% confidence
+positive sentiment; 98.640615% confidence
+positive sentiment; 98.342746% confidence
+positive sentiment; 98.096311% confidence
+positive sentiment; 97.699636% confidence
+'dumalyev' not in training corpus; ignoring.
+positive sentiment; 98.000985% confidence

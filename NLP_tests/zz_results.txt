@@ -1,0 +1,6 @@
+15 true positive
+10 false positive
+5 true negative
+0 false negative
+recall 100%
+precision 60%

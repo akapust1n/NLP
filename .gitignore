@@ -1,0 +1,10 @@
+env/
+*.json
+data/
+.idea
+*.json
+*.pyc
+__pycache__
+*.csv
+*.zip
+*.h5
